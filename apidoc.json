@@ -1,0 +1,8 @@
+{
+    "name": "Documentation Turns Record",
+    "version": "0.0.1",
+    "description": "Api Doc for turns record",
+    "title": "Doc Turns Record",
+    "url" : "http://localhost:3000",
+    "sampleUrl" : "http://localhost:3000"
+}
