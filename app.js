@@ -20,6 +20,7 @@ app.use('/', route);
 app.use(logger('dev'));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'src/archivos')));
+app.use(express.static(path.join(__dirname, 'apidoc')));
 
 
 app.use('/', route);
